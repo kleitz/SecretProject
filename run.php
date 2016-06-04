@@ -5,9 +5,9 @@ require_once 'config/keys.php';
 require_once 'config/config.php';
 
 $Twitter = new Twitter($keys['consumer']['key'],
-					   $keys['consumer']['secret'], 
-					   $keys['access']['token'], 
-					   $keys['access']['secret']);
+		       $keys['consumer']['secret'], 
+		       $keys['access']['token'], 
+		       $keys['access']['secret']);
 
 //Get trending hashtags, package them up into an array.
 try { 
