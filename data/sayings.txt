@@ -1,0 +1,4 @@
+Hi there! This is an example #Tweet.
+This is another Tweet!
+Wow.
+This Tweet is over 140 characters long so its going to be cut automatically and you wont see all of its content at all so dont do this ever! You wont see this part
